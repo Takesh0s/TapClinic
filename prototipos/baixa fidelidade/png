@@ -1,1 +1,20 @@
+                                   Descrição de todas as telas abaixos
 
+
+Tela Principal: Uma tela que mostra o seu progresso e a sua sequencia de dias cumpridos com um mapa interativo e estilizado.
+
+Desafios: Uma tela com a sua lista de objetivos diários e semanais onde você ganha recompensas a partir do objetivo concluido.
+
+Fase Boss: Uma tela com o Boss diário onde ao cumprir os seus objetivos iria diminuir a vida do inimigo até que ele fosse derrotado 
+e caso ele n fosse derrotado um ataque seria desferido no protagonista que tiraria uma certa quantidade de vida.
+
+Loading: A tela de carregamento antes do app se iniciar e durante momentos mais pesados para caregar.
+
+Configurações: Uma tela de configurações com opções de musica ciclo diário dificuldade lingua e conta para um uso personalizável do app.
+
+Loja: Uma loja onde o usuário poderá gastar as moedas ganhas ao longo do tempo de jogo com cosméticos novos.
+
+Loja 2 (feito no paint apenas para ilustrar a última ideia aceita): Assim como sua versão anterior, é uma loja aonde o usuários poderá 
+gastar suas moedas ganhadas ao longo do tempo de jogo em itens cosméticos novos utilizando-se do formato gatcha com banners que podem
+ser escolhidos pelo usuário para tentar ganhar um item com chance aumentada, tendo também uma espécie de tanque que vai se enchendo
+com o tempo e ao encher, é aberto dando itens de forma totalmente gratuita para o usuário.
