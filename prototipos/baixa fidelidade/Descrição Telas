@@ -8,7 +8,8 @@ Desafios: Uma tela com a sua lista de objetivos diários e semanais onde você g
 Fase Boss: Uma tela com o Boss diário onde ao cumprir os seus objetivos iria diminuir a vida do inimigo até que ele fosse derrotado 
 e caso ele n fosse derrotado um ataque seria desferido no protagonista que tiraria uma certa quantidade de vida.
 
-Loading: A tela de carregamento antes do app se iniciar e durante momentos mais pesados para caregar.
+Loading: A tela de carregamento antes do app se iniciar e durante momentos mais pesados para caregar, e no primeiro acesso será aonde
+o login sincronizado com a Google Play Games será feito para criar a conta do usuário.
 
 Configurações: Uma tela de configurações com opções de musica ciclo diário dificuldade lingua e conta para um uso personalizável do app.
 
